@@ -1,0 +1,19 @@
+usage:
+	python run.py queryname method
+	
+	queryname = queryfile's name , ex : ukbench00000.jpg
+	method = 1 => Q1
+			 2 => Q2
+			 3 => Q3
+			 4 => Q4
+			 5 => Q5
+
+dataset files location:
+	put the dataset in the folder that contain the code folder
+	like following:
+	--|code
+		--|run1.py...
+		--|run2.py...
+		--|(codes)...
+	--|dataset
+		--|(pics)...
